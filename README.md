@@ -1,6 +1,6 @@
 # Casino Game — Next.js
 
-Frontend and API migrated from Laravel to Next.js. The game server (Socket.io) remains in `../server/app.js` and should call this Next.js app by its base URL.
+Casino Script is an all-in-one online casino software with customizable games, innovative features, and SEO-optimized design, perfect for launching your own casino.
 
 
 ## Contact for support or suggestions
