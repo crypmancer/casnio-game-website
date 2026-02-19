@@ -1,6 +1,6 @@
-# Casino Game — Next.js
+# Casino Game Website with crypto payment
 
-Casino Script is an all-in-one online casino software with customizable games, innovative features, and SEO-optimized design, perfect for launching your own casino.
+Casino Game website is an all-in-one online casino software with customizable games, innovative features, and SEO-optimized design, perfect for launching your own casino.
 
 
 ## Contact for support or suggestions
